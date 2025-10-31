@@ -1,6 +1,7 @@
 //202510302108
 //3262478235@qq.com
-//崔嘉燊#include <stdio.h>
+//崔嘉燊
+#include <stdio.h>
 
 int main() {
     int arr[5]; 
@@ -27,3 +28,4 @@ int main() {
     return 0;
 
 }
+
